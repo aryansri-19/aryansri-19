@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/vLlpbDafjgHystuJ0a" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/webfx-code-interactive-code-a-yoda-vLlpbDafjgHystuJ0a">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/vLlpbDafjgHystuJ0a" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
-🔭 A nerdy and goofy engineering student
-🤖 Currently learning Fullstack Dev, ML and Android Dev
-💬 Ask me anything but coding
-🫡 Pronouns: don't/care
-⚡ Books | Movies | Anime | Gaming
+- 🔭 A nerdy and goofy engineering student
+- 🤖 Currently learning Fullstack Dev, ML and Android Dev
+- 💬 Ask me anything but coding
+- 🫡 Pronouns: don't/care
+- ⚡ Books | Movies | Anime | Gaming
 
 <img alt="Static Badge" src="https://img.shields.io/badge/milte_hain-baad_mein">
 
