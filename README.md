@@ -8,7 +8,7 @@
 - 🫡 Pronouns: don't/care
 - ⚡ Books | Movies | Anime | Gaming
 
-<img alt="Static Badge" src="https://img.shields.io/badge/milte_hain-baad_mein">
+<img alt="Static Badge" src="https://img.shields.io/badge/milte_hain-baad_mein-blue">
 
 ### Technologies
 <div>
